@@ -1,2 +1,2 @@
 # Chess
-# A curriculum design of C
+A curriculum design of C
